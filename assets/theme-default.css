@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+@import url(http://fonts.googleapis.com/css?family=Quicksand:300,400,500,700);
+@import "public/css/animate.css";
+@import "public/css/icomoon.css";
+@import "public/css/bootstrap.css";
+@import "public/css/flexslider.css";
+@import "public/fonts/flaticon/font/flaticon.css";
+
+@import "public/fonts/bootstrap/glyphicons-halflings-regular.svg";
+@import "public/css/owl.carousel.min.css";
+@import "public/css/owl.theme.default.min.css";
+@import "public/css/style.css";
+/* PREDEFINED CLASSES */

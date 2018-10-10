@@ -1,0 +1,22 @@
+[18-Jul-2018 02:03:09 America/New_York] PHP Fatal error:  Call to a member function result() on boolean in /home/elrojavy/chisomokoye.com/bns/application/libraries/Ion_auth.php on line 1149
+[18-Jul-2018 02:03:36 America/New_York] PHP Fatal error:  Call to a member function result() on boolean in /home/elrojavy/chisomokoye.com/bns/application/libraries/Ion_auth.php on line 1149
+[18-Jul-2018 02:08:53 America/New_York] PHP Fatal error:  Call to a member function result() on boolean in /home/elrojavy/chisomokoye.com/bns/application/libraries/Ion_auth.php on line 1149
+[18-Jul-2018 02:13:32 America/New_York] PHP Fatal error:  Call to a member function result() on boolean in /home/elrojavy/chisomokoye.com/bns/application/libraries/Ion_auth.php on line 1149
+[18-Jul-2018 02:13:37 America/New_York] PHP Fatal error:  Call to a member function result() on boolean in /home/elrojavy/chisomokoye.com/bns/application/libraries/Ion_auth.php on line 1149
+[18-Jul-2018 02:15:31 America/New_York] PHP Fatal error:  Call to a member function result() on boolean in /home/elrojavy/chisomokoye.com/bns/application/libraries/Ion_auth.php on line 1149
+[18-Jul-2018 07:03:38 America/New_York] PHP Fatal error:  Cannot redeclare Contact::sendMail() in /home/elrojavy/chisomokoye.com/bns/application/controllers/Contact.php on line 85
+[18-Jul-2018 07:03:50 America/New_York] PHP Fatal error:  Cannot redeclare Contact::sendMail() in /home/elrojavy/chisomokoye.com/bns/application/controllers/Contact.php on line 85
+[18-Jul-2018 07:05:20 America/New_York] PHP Fatal error:  Cannot redeclare Contact::sendMail() in /home/elrojavy/chisomokoye.com/bns/application/controllers/Contact.php on line 85
+[18-Jul-2018 10:34:17 America/New_York] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER), expecting ';' or '{' in /home/elrojavy/chisomokoye.com/bns/application/controllers/Contact.php on line 37
+[18-Jul-2018 10:35:07 America/New_York] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER), expecting ';' or '{' in /home/elrojavy/chisomokoye.com/bns/application/controllers/Contact.php on line 37
+[18-Jul-2018 10:35:11 America/New_York] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER), expecting ';' or '{' in /home/elrojavy/chisomokoye.com/bns/application/controllers/Contact.php on line 37
+[18-Jul-2018 12:16:47 America/New_York] PHP Fatal error:  Call to undefined function word_limiter() in /home/elrojavy/chisomokoye.com/bns/application/views/blog.php on line 46
+[18-Jul-2018 12:29:47 America/New_York] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/elrojavy/chisomokoye.com/bns/application/models/Welcome_model.php on line 67
+[19-Jul-2018 03:30:24 America/New_York] PHP Fatal error:  Call to a member function add() on null in /home/elrojavy/chisomokoye.com/bns/application/controllers/admin/Users.php on line 74
+[19-Jul-2018 03:30:27 America/New_York] PHP Fatal error:  Call to a member function add() on null in /home/elrojavy/chisomokoye.com/bns/application/controllers/admin/Users.php on line 74
+[22-Jul-2018 10:02:13 America/New_York] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/elrojavy/chisomokoye.com/bns/application/models/Welcome_model.php on line 53
+[22-Jul-2018 10:02:47 America/New_York] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/elrojavy/chisomokoye.com/bns/application/models/Welcome_model.php on line 53
+[22-Jul-2018 10:03:02 America/New_York] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/elrojavy/chisomokoye.com/bns/application/models/Welcome_model.php on line 53
+[22-Jul-2018 10:03:06 America/New_York] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/elrojavy/chisomokoye.com/bns/application/models/Welcome_model.php on line 53
+[22-Jul-2018 10:03:53 America/New_York] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/elrojavy/chisomokoye.com/bns/application/models/Welcome_model.php on line 53
+[22-Jul-2018 10:03:59 America/New_York] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/elrojavy/chisomokoye.com/bns/application/models/Welcome_model.php on line 53
